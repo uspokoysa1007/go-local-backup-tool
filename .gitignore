@@ -1,0 +1,6 @@
+*.exe
+*.exe~
+releases/*.exe
+!releases/
+!releases/source_code.zip
+backups/
